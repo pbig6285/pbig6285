@@ -9,7 +9,7 @@
 - 🌱 I’m a former math student, currently getting my CS Masters
 - ✏️ Building interesting software from scratch
 - ⚡ Fun fact: I probably like building PCs a little too much
-- ❓ You may see the occassional video game mod from me
+
 
 
 ## What I'm using
