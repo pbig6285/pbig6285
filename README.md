@@ -35,7 +35,10 @@
 <a href="https://www.linkedin.com/in/peter-bigica-6205b4232/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-</div> 
+<a href="https://www.kaggle.com/peterbigica" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+</div>
 <!---
 pbig6285/pbig6285 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
