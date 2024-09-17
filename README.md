@@ -5,8 +5,8 @@
 # Hello World! Im Peter 👋
 
 
-- 👀 I’m interested in higher level math and how it can be applied to CS
-- 🌱 I’m a former math student, currently getting my CS Masters
+- 👀 I’m interested in higher level math and how it can be applied to Data
+- 🌱 I’m a former math student, currently getting my Data Science Masters Masters
 - ✏️ Building interesting software from scratch
 - ⚡ Fun fact: I probably like building PCs a little too much
 
